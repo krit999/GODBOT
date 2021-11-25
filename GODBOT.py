@@ -19,7 +19,7 @@ botStart = time.time()
 #==============================================================================#
 #line = LINE()
 #line = LINE("Email","Passwd")
-line = LINE()
+line = LINE('EEL5CiyiEMoifu0vwQF7.CLKwl6CadnbepbPsCH3CnW.SHpQL40WFqBQr25hqkC6IRAeIYKp8PV1mwwmKoC8c3g=')
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
@@ -55,9 +55,9 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["",lineMID]
-admin = "" 
-admin=['',lineMID]
+Family=["u010598af074d6d55419609ae63048a60",lineMID]
+admin = "u010598af074d6d55419609ae63048a60" 
+admin=['u010598af074d6d55419609ae63048a60',lineMID]
 RfuFamily = RfuBot + Family
 
 protectname = []
