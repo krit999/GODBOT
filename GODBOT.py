@@ -18,8 +18,8 @@ from googletrans import Translator
 botStart = time.time()
 #==============================================================================#
 #line = LINE()
-#line = LINE("Email","Passwd")
-line = LINE('EEL5CiyiEMoifu0vwQF7.CLKwl6CadnbepbPsCH3CnW.SHpQL40WFqBQr25hqkC6IRAeIYKp8PV1mwwmKoC8c3g=')
+#line = LINE("darawanjirachot@gmail.com","dara4432")
+line = LINE('')
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
