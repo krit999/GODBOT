@@ -40,7 +40,7 @@ pip3 install antolib
 
 pip3 install urllib
 
-git clone https://github.com/THxMixR/BotLineThai.git
+git clone https://github.com/krit999/GODBOT.git
 
 ls
 
