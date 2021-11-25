@@ -55,9 +55,9 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["u010598af074d6d55419609ae63048a60",lineMID]
-admin = "u010598af074d6d55419609ae63048a60" 
-admin=['u010598af074d6d55419609ae63048a60',lineMID]
+Family=["",lineMID]
+admin = "" 
+admin=['',lineMID]
 RfuFamily = RfuBot + Family
 
 protectname = []
