@@ -44,7 +44,7 @@ git clone https://github.com/krit999/GODBOT.git
 
 ls
 
-cd M
+cd GODBOT
 
 ls
 
